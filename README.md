@@ -10,15 +10,15 @@ Web Server:
  - Has a basic webpage with editable content via the CMS.  
 
 IM Server: 
-		- Ejabberd / XMPP
+ - Ejabberd / XMPP
 Email Server:
-		- Still being determined
+ - Still being determined
 VPN Server:
-		- OpenVPN
+ - OpenVPN
 
 Resources: 
-	- Cyrus IMAP server - BSD
-	- Ejabberd – maybe – GPLv2
-	- OpenVPN
-	- Apache
-	- PHP
+ - Cyrus IMAP server - BSD
+ - Ejabberd – maybe – GPLv2
+ - OpenVPN
+ - Apache
+ - PHP
