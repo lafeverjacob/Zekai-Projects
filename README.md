@@ -12,8 +12,10 @@ Web Server:
 
 IM Server: 
  - Ejabberd / XMPP
+
 Email Server:
  - Still being determined
+
 VPN Server:
  - OpenVPN
 
