@@ -5,21 +5,21 @@ The Zekai Project is a initiative started by Jacob M. LaFever with the intent of
 install and use software that can provide a higher level of privacy for everyday use of the internet. 
 By using software and other resources already created by the open source community. 
 
-Objectives:
+##Objectives:
 Web Server:
  - Contains CMS for maintaining the various services run on the server such IM, Email, Etc.
  - Has a basic webpage with editable content via the CMS.  
 
-IM Server: 
+##IM Server: 
  - Ejabberd / XMPP
 
-Email Server:
+##Email Server:
  - Still being determined
 
-VPN Server:
+##VPN Server:
  - OpenVPN
 
-Resources: 
+##Resources: 
  - Cyrus IMAP server - BSD
  - Ejabberd – maybe – GPLv2
  - OpenVPN
